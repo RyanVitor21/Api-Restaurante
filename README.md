@@ -1,4 +1,4 @@
-# Api-Restaurante
+# Api-Delivery online
 Uma API de delivery online
 Comandos:
 1 - npx prisma studio
